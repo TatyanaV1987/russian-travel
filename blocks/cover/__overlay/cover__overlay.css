@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background:  url(../../../images/cover-trains.jpg) no-repeat center / cover ;
+    background: url(../../../images/cover-trains.jpg) no-repeat center / cover;
 }
 
 @media screen and (max-width: 1024px) {
