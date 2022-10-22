@@ -3,9 +3,14 @@
     display: flex;
     margin: 0;
     padding: 0;
+    gap: 18px;
 }
-
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 678px) {
+    .footer__list {
+        gap: 10px;
+    }
+}
+@media screen and (max-width: 554px) {
     .footer__list {
         flex-direction: column;
     }
