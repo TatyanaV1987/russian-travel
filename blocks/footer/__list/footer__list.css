@@ -13,5 +13,6 @@
 @media screen and (max-width: 554px) {
     .footer__list {
         flex-direction: column;
+        gap: 0;
     }
 }
